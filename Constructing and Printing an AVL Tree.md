@@ -25,8 +25,6 @@ To write a Python program to construct an **AVL tree** and print the nodes of it
 
 ## PYTHON PROGRAM
 ```
-name: Pavithra S
-reg.no:212222060174
 
 from TreeAVL.AVL import AVL
 
