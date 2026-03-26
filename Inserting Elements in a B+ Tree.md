@@ -35,9 +35,6 @@ To write a Python function `def insert(self, key, value):` to insert elements in
 ## PYTHON PROGRAM
 
 ```
-Name:Pavithra S
-reg.no:212222060174
-
 class Node(object):
     
     def __init__(self, order):
