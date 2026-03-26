@@ -27,8 +27,7 @@ To write a Python program to construct an **AVL tree**, balance it, and print th
 
 ## PYTHON PROGRAM
 ```
-name: Pavithra .S
-reg.no:212222060174
+
 
 from TreeAVL.AVL import AVL
 
