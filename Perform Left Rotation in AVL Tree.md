@@ -40,9 +40,6 @@ To write a Python function `def leftRotate(self, z):` to perform the left rotati
 ## PYTHON PROGRAM
 
 ```
-Name: Pavithra.S
-reg.no:212222060174
-
 class TreeNode(object):
 	def __init__(self, val):
 		self.val = val
